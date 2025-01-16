@@ -2,6 +2,6 @@
 
 **Nice to meet you here**
 
-- 🙋‍♀️ This is the place for indie artisans.
-- 🌈 We Built all intesting things we think. 
-- 👩‍💻 We are indie blogger/producer and more.
+- 🌈 This is the playground for indie makers.
+- 💡 We Build all the intesting things we think. 
+- 🥳 Our goal is to live professionally and work amateurishly.
